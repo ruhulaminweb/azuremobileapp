@@ -1,0 +1,7 @@
+{
+  "name": "AzureOps Mobile - Task & Hours Tracker",
+  "description": "Flutter-ready mobile companion for Azure DevOps task tracking, working-hour compliance monitoring, and daily to yearly performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
